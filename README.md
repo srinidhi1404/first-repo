@@ -1,5 +1,7 @@
 # first-repo
 exploring git
 
-**Srinidhi Balmuri** <br><br>
+**Srinidhi Balmuri** <br>
 *There are no important facts*
+
+GitHub, Inc., is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
